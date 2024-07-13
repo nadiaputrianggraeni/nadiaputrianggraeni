@@ -4,7 +4,7 @@ I'm **Nadia Putri Anggraeni**, a passionate person in **Data Analyst** and **Sci
 
 - 🔭 I have worked at the Central Statistics Agency (Badan Pusat Statistik) of Banyumas Regency as a Data Entry Officer from February to March 2023, and served as a Teaching Assistant         for Statistics Methods, Regression Analysis, Database, and Time Series Analysis every semester for 3.5 years (2021-2024)
   
-- 🌱 I’m currently learning **Mathematics**, **Statistics**, **Analysis**, **Machine Learning**
+- 🌱 I’m currently learning **Mathematics**, **Statistics**, **Analysis**, and **Machine Learning**
   
 - 📫 How to reach me: [nadiaputrianggraeni0703@gmail.com](mailto:nadiaputrianggraeni0703@gmail.com)
   
